@@ -1,0 +1,5 @@
+prepend:
+  - 'DST-PORT,22,DIRECT'
+  - 'DOMAIN-SUFFIX,zeta-inc.cn,DIRECT'  # 匹配 *.zeta-inc.cn 及其所有子域名
+append: []
+delete: []
